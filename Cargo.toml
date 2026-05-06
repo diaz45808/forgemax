@@ -39,3 +39,4 @@ description = "Code Mode inspired local sandboxed MCP Gateway - collapses N serv
 # guard against empty input
 # avoid re-reading the config on every call
 # keep defaults in sync with the manifest
+# handle the edge case from the last release
